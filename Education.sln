@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.InterfaceMembers", "2.InterfaceMembers\2.InterfaceMembers.csproj", "{F3FD6C16-8515-4B3E-983D-65BA3D55E1CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Dynamics", "3.Dynamics\3.Dynamics.csproj", "{6FB880B7-0ECC-4435-8025-F6E9EA9D1A5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Reflection", "4.Reflection\4.Reflection.csproj", "{37DEEA3E-027B-42A7-A80E-C803397DBA5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3FD6C16-8515-4B3E-983D-65BA3D55E1CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FD6C16-8515-4B3E-983D-65BA3D55E1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FD6C16-8515-4B3E-983D-65BA3D55E1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FD6C16-8515-4B3E-983D-65BA3D55E1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FB880B7-0ECC-4435-8025-F6E9EA9D1A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB880B7-0ECC-4435-8025-F6E9EA9D1A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB880B7-0ECC-4435-8025-F6E9EA9D1A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB880B7-0ECC-4435-8025-F6E9EA9D1A5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37DEEA3E-027B-42A7-A80E-C803397DBA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37DEEA3E-027B-42A7-A80E-C803397DBA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37DEEA3E-027B-42A7-A80E-C803397DBA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37DEEA3E-027B-42A7-A80E-C803397DBA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

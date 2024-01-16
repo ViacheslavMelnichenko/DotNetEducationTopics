@@ -1,0 +1,6 @@
+@_4.Reflection_HostAddress = http://localhost:5266
+
+GET {{_4.Reflection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
